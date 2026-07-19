@@ -19,6 +19,7 @@ I am a first-year Ph.D. student at Huazhong University of Science and Technology
 - [Mar. 30, 2026] Our paper [**MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios**](https://arxiv.org/abs/2603.28130) was released on arXiv.
 - [Sep. 18, 2025] Two papers were accepted to **NeurIPS 2025**.
 - [Jun. 25, 2025] Our paper [**LIRA: Inferring Segmentation in Large Multi-modal Models with Local Interleaved Region Assistance**](https://openaccess.thecvf.com/content/ICCV2025/html/Li_LIRA_Inferring_Segmentation_in_Large_Multi-modal_Models_with_Local_Interleaved_ICCV_2025_paper.html) appeared at ICCV 2025.
+- [Jun. 12, 2025] [**MonkeyOCR**](https://github.com/Yuliang-Liu/MonkeyOCR) [![GitHub stars](https://img.shields.io/github/stars/Yuliang-Liu/MonkeyOCR?style=social)](https://github.com/Yuliang-Liu/MonkeyOCR) ranked **#2 on Hugging Face Trending**.
 - [Jun. 5, 2025] [**MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm**](https://arxiv.org/abs/2506.05218) [![GitHub stars](https://img.shields.io/github/stars/Yuliang-Liu/MonkeyOCR?style=social)](https://github.com/Yuliang-Liu/MonkeyOCR) was released on arXiv.
 - [Dec. 11, 2024] [**OCRBench**](https://link.springer.com/article/10.1007/s11432-024-4235-6) was accepted by **Science China Information Sciences**.
 - [Nov. 11, 2024] **Monkey** was selected as one of the ten [**2024 Major Academic Advances of Huazhong University of Science and Technology**](https://news.hust.edu.cn/info/1002/53886.htm).
