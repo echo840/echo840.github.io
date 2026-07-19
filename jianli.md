@@ -2,9 +2,9 @@
 
 First-Year Ph.D. Student  
 Huazhong University of Science and Technology, Wuhan, China  
-Email: zhangli123@hust.edu.cn
 
-[Google Scholar](https://scholar.google.com/citations?user=8TGkMdgAAAAJ&hl=zh-CN) / [GitHub](https://github.com/echo840)
+
+[Google Scholar](https://scholar.google.com/citations?user=8TGkMdgAAAAJ&hl=zh-CN) / [GitHub](https://github.com/echo840) / [Email](zhangli123@hust.edu.cn)
 
 ## About Me
 
@@ -21,7 +21,7 @@ I am a first-year Ph.D. student at Huazhong University of Science and Technology
 - [Jun. 25, 2025] Our paper [**LIRA: Inferring Segmentation in Large Multi-modal Models with Local Interleaved Region Assistance**](https://openaccess.thecvf.com/content/ICCV2025/html/Li_LIRA_Inferring_Segmentation_in_Large_Multi-modal_Models_with_Local_Interleaved_ICCV_2025_paper.html) appeared at ICCV 2025.
 - [Jun. 12, 2025] [**MonkeyOCR**](https://github.com/Yuliang-Liu/MonkeyOCR) ranked **#2 on Hugging Face Trending**.
 - [Dec. 11, 2024] [**OCRBench**](https://link.springer.com/article/10.1007/s11432-024-4235-6) was accepted by **Science China Information Sciences**.
-- [Nov. 11, 2024] [**Monkey**](https://news.hust.edu.cn/info/1002/53886.htm) was selected as one of the ten **2024 Major Academic Advances of Huazhong University of Science and Technology**.
+- [Nov. 11, 2024] **Monkey** was selected as one of the ten [**2024 Major Academic Advances of Huazhong University of Science and Technology**](https://news.hust.edu.cn/info/1002/53886.htm).
 - [Feb. 27, 2024] [**Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models**](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Monkey_Image_Resolution_and_Text_Label_Are_Important_Things_for_CVPR_2024_paper.html) was accepted to **CVPR 2024** as a **Highlight** paper.
 
 ## Experience
