@@ -8,11 +8,11 @@ Huazhong University of Science and Technology, Wuhan, China
 
 ## About Me
 
-I am a first-year Ph.D. student at Huazhong University of Science and Technology, advised by Prof. [Yuliang Liu](https://scholar.google.com/citations?user=9uPDtI4AAAAJ&hl=en) and Prof. [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en). My research focuses on multimodal large language models and document intelligence. I'm open for discussion on exciting topics about AI and happy to make friends with people from various backgrounds. Feel free to contact me!
+I am a second-year Ph.D. student at Huazhong University of Science and Technology, advised by Prof. [Yuliang Liu](https://scholar.google.com/citations?user=9uPDtI4AAAAJ&hl=en) and Prof. [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en). My research focuses on multimodal large language models and document intelligence. I'm open for discussion on exciting topics about AI and happy to make friends with people from various backgrounds. Feel free to contact me!
 
 
 ## News
-
+- [Sep. 27, 2026] [**MDPBench**](https://arxiv.org/abs/2603.28130) was accepted by **NeurIPS 2026 Evaluations & Datasets Track**.
 - [Jul. 14, 2026] [**MonkeyOCR**](https://arxiv.org/abs/2506.05218) was accepted by **Science China Information Sciences**.
 - [Jul. 13, 2026] Our paper [**MonkeyOCRv2: A Visual-Text Foundation Model for Document AI**](https://arxiv.org/abs/2607.11562) was released on arXiv.
 - [May 2026] [**TextMonkey**](https://arxiv.org/abs/2403.04473) was accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
